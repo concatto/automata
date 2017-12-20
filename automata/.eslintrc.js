@@ -21,6 +21,12 @@ module.exports = {
     'import/extensions': 'off',
     'import/no-unresolved': 'off',
     'quotes': 'off',
+    'class-methods-use-this': 'off',
+    'no-console': 'off',
+    'no-restricted-syntax': 'off',
+    'prefer-const': 'warn',
+    'no-unused-vars': 'warn',
+    'no-trailing-spaces': 'off',
     'comma-dangle': 'off',
     // allow async-await
     'generator-star-spacing': 'off',

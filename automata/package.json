@@ -14,6 +14,7 @@
     "eslint-config-airbnb": "^16.1.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.5.1",
+    "object-hash": "^1.2.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
